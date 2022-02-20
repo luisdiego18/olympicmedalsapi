@@ -1,0 +1,4 @@
+{
+	"appService.defaultWebAppToDeploy": "/subscriptions/e91e2335-da08-4df0-b7c6-41300f7be846/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/medalwebapp",
+	"appService.deploySubpath": "publish"
+}

@@ -6,6 +6,7 @@ using Swashbuckle.AspNetCore.Annotations;
 
 namespace olympicmedalsapi.Controllers
 {
+    [ApiController, Route("[controller]/country")]
     public class ApiController : ControllerBase
     {
         private readonly ILogger<ApiController> _logger;
