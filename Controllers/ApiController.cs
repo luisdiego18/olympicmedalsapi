@@ -36,6 +36,7 @@ namespace olympicmedalsapi.Controllers
         [HttpPost, SwaggerOperation(summary: "add member to collection", null), ProducesResponseType(typeof(Country), 201), SwaggerResponse(201, "Created")]
         public Country Post([FromBody] Country country) => _dataContext.AddCountry(country);
 
+
         //http delete to delete a country
         [HttpDelete("{id}"), SwaggerOperation(summary: "delete member from collection", null), ProducesResponseType(typeof(Country), 204), SwaggerResponse(204, "No Content")]
         public ActionResult Delete(int id)

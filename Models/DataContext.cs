@@ -10,7 +10,7 @@ namespace olympicmedalsapi.Models
         //Add Country
         public Country AddCountry(Country country)
         {
-            this.AddCountry(country);
+            this.Add(country);
             this.SaveChanges();
             return country;
         }

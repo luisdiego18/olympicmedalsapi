@@ -12,7 +12,7 @@ namespace olympicmedalsapi.Migrations
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
-                    Name = table.Column<string>(type: "TEXT", nullable: true),
+                    Name = table.Column<string>(type: "TEXT", nullable: false),
                     Gold = table.Column<int>(type: "INTEGER", nullable: false),
                     Silver = table.Column<int>(type: "INTEGER", nullable: false),
                     Bronze = table.Column<int>(type: "INTEGER", nullable: false)
