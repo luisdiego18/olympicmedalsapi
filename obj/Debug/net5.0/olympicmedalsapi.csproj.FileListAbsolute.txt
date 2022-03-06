@@ -58,3 +58,9 @@
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/publish/appsettings.json
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/publish/olympicmedalsapi.deps.json
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/publish/olympicmedalsapi.runtimeconfig.json
+/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/package-lock.json
+/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/package.json
+/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll

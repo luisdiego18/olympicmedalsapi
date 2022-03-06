@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using System.Linq;
+using Microsoft.AspNetCore.JsonPatch;
 
 namespace olympicmedalsapi.Models
 {
@@ -19,6 +21,13 @@ namespace olympicmedalsapi.Models
         public void DeleteCountry(Country country)
         {
             this.Remove(country);
+            this.SaveChanges();
+        }
+
+        public void PatchCountry(int id, JsonPatchDocument<Country> patch)
+        {
+            Country country = this.Countries.FirstOrDefault(c => c.Id == id);
+            patch.ApplyTo(country);
             this.SaveChanges();
         }
 
