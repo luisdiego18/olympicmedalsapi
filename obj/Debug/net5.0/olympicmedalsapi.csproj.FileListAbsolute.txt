@@ -53,11 +53,6 @@
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/obj/Debug/net5.0/olympicmedalsapi.pdb
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/obj/Debug/net5.0/olympicmedalsapi.genruntimeconfig.cache
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.Annotations.dll
-/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/publish/web.config
-/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/publish/appsettings.Development.json
-/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/publish/appsettings.json
-/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/publish/olympicmedalsapi.deps.json
-/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/publish/olympicmedalsapi.runtimeconfig.json
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/package-lock.json
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/package.json
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll

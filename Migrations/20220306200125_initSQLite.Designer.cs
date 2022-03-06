@@ -8,7 +8,7 @@ using olympicmedalsapi.Models;
 namespace olympicmedalsapi.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220222000314_initSQLite")]
+    [Migration("20220306200125_initSQLite")]
     partial class initSQLite
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

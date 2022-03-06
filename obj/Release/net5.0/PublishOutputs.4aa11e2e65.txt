@@ -1,8 +1,12 @@
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/appsettings.Development.json
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/appsettings.json
+/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/package-lock.json
+/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/package.json
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/olympicmedalsapi.dll
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/olympicmedalsapi.runtimeconfig.json
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/olympicmedalsapi.pdb
+/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/Microsoft.AspNetCore.JsonPatch.dll
+/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/Microsoft.Data.Sqlite.dll
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/Microsoft.DotNet.PlatformAbstractions.dll
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/Microsoft.EntityFrameworkCore.dll
@@ -11,6 +15,8 @@
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/Microsoft.EntityFrameworkCore.Sqlite.dll
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/Microsoft.Extensions.DependencyModel.dll
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/Microsoft.OpenApi.dll
+/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/Newtonsoft.Json.dll
+/Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/Newtonsoft.Json.Bson.dll
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/SQLitePCLRaw.batteries_v2.dll
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/SQLitePCLRaw.nativelibrary.dll
 /Users/luisdiego/Documents/WCTC/2ndYear/AWSD/olympicmedalsapi/publish/SQLitePCLRaw.core.dll
